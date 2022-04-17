@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DelegateForCafe.qml</file>
+        <file>DelegateForAdd.qml</file>
+        <file>DelegateForAnswer.qml</file>
+        <file>DelegateForEdit.qml</file>
+    </qresource>
+</RCC>
